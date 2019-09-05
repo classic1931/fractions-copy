@@ -1,0 +1,36 @@
+Class documentation
+<---- javadoc command: ---->
+/private/var/folders/ll/252l0c8n1sz0g31vsmjb74hm0000gn/T/AppTranslocation/6A5731DF-6F49-4C10-93A7-FA4DCD3D0D33/d/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+/private/var/folders/ll/252l0c8n1sz0g31vsmjb74hm0000gn/T/AppTranslocation/6A5731DF-6F49-4C10-93A7-FA4DCD3D0D33/d/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/private/var/folders/ll/252l0c8n1sz0g31vsmjb74hm0000gn/T/AppTranslocation/6A5731DF-6F49-4C10-93A7-FA4DCD3D0D33/d/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/private/var/folders/ll/252l0c8n1sz0g31vsmjb74hm0000gn/T/AppTranslocation/6A5731DF-6F49-4C10-93A7-FA4DCD3D0D33/d/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/private/var/folders/ll/252l0c8n1sz0g31vsmjb74hm0000gn/T/AppTranslocation/6A5731DF-6F49-4C10-93A7-FA4DCD3D0D33/d/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/private/var/folders/ll/252l0c8n1sz0g31vsmjb74hm0000gn/T/AppTranslocation/6A5731DF-6F49-4C10-93A7-FA4DCD3D0D33/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.base.jar:/private/var/folders/ll/252l0c8n1sz0g31vsmjb74hm0000gn/T/AppTranslocation/6A5731DF-6F49-4C10-93A7-FA4DCD3D0D33/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.controls.jar:/private/var/folders/ll/252l0c8n1sz0g31vsmjb74hm0000gn/T/AppTranslocation/6A5731DF-6F49-4C10-93A7-FA4DCD3D0D33/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.fxml.jar:/private/var/folders/ll/252l0c8n1sz0g31vsmjb74hm0000gn/T/AppTranslocation/6A5731DF-6F49-4C10-93A7-FA4DCD3D0D33/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.graphics.jar:/private/var/folders/ll/252l0c8n1sz0g31vsmjb74hm0000gn/T/AppTranslocation/6A5731DF-6F49-4C10-93A7-FA4DCD3D0D33/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.media.jar:/private/var/folders/ll/252l0c8n1sz0g31vsmjb74hm0000gn/T/AppTranslocation/6A5731DF-6F49-4C10-93A7-FA4DCD3D0D33/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.properties.jar:/private/var/folders/ll/252l0c8n1sz0g31vsmjb74hm0000gn/T/AppTranslocation/6A5731DF-6F49-4C10-93A7-FA4DCD3D0D33/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.swing.jar:/private/var/folders/ll/252l0c8n1sz0g31vsmjb74hm0000gn/T/AppTranslocation/6A5731DF-6F49-4C10-93A7-FA4DCD3D0D33/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.web.jar:/Users/christopherdejong/Desktop/277/fractions-copy
+-d
+/Users/christopherdejong/Desktop/277/fractions-copy/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/Users/christopherdejong/Desktop/277/fractions-copy/Rational.java
+<---- end of javadoc command ---->
+Loading source file /Users/christopherdejong/Desktop/277/fractions-copy/Rational.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating /Users/christopherdejong/Desktop/277/fractions-copy/doc/Rational.html...
+Generating /Users/christopherdejong/Desktop/277/fractions-copy/doc/package-summary.html...
+Generating /Users/christopherdejong/Desktop/277/fractions-copy/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/christopherdejong/Desktop/277/fractions-copy/doc/allclasses.html...
+Generating /Users/christopherdejong/Desktop/277/fractions-copy/doc/allclasses.html...
+Generating /Users/christopherdejong/Desktop/277/fractions-copy/doc/index.html...
